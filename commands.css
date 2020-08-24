@@ -1,0 +1,15 @@
+.u-section-1 .u-sheet-1 {min-height: 711px}
+.u-section-1 .u-text-1 {animation-duration: 1000ms; margin: 10px auto 0 12px}
+.u-section-1 .u-text-2 {animation-duration: 1500ms; width: 651px; height: 912px; margin: 20px auto 60px 12px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {margin-left: 10px}
+.u-section-1 .u-text-2 {margin-left: 10px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-1 {margin-left: 8px}
+.u-section-1 .u-text-2 {margin-left: 8px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-left: 6px}
+.u-section-1 .u-text-2 {margin-left: 6px} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {margin-left: 4px}
+.u-section-1 .u-text-2 {margin-left: 4px} }
