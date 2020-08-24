@@ -1,4 +1,4 @@
-.u-section-1 {background-image: url(images/spawn.jpg); margin-top: 0; margin-bottom: 0; background-position: 50% 50%}
+.u-section-1 {background-image: url("images/spawn.jpeg"); margin-top: 0; margin-bottom: 0; background-position: 50% 50%}
 .u-section-1 .u-sheet-1 {min-height: 1187px}
 .u-section-1 .u-text-1 {text-transform: uppercase; font-weight: 700; font-size: 4.5rem; animation-duration: 2250ms; text-shadow: 2px 2px 8px rgba(0,0,0,0.4); margin: 316px 30px 0}
 .u-section-1 .u-image-1 {width: 111px; height: 111px; animation-duration: 1000ms; margin: 39px auto 0 362px}
@@ -76,7 +76,7 @@
 .u-section-1 .u-btn-4 {margin-top: 356px}
 .u-section-1 .u-btn-5 {margin-top: -643px; margin-left: 112px}
 .u-section-1 .u-btn-6 {margin-top: 759px}
-.u-section-1 .u-btn-7 {margin-top: 155px; margin-left: 112px} }.u-section-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(images/world-370.jpg); background-position: 50% 50%}
+.u-section-1 .u-btn-7 {margin-top: 155px; margin-left: 112px} }.u-section-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url"(images/world-370.jpg"); background-position: 50% 50%}
 .u-section-2 .u-sheet-1 {min-height: 388px}
 .u-section-2 .u-text-1 {margin: 137px 20px 0}
 .u-section-2 .u-btn-1 {margin: 30px auto 60px} 
